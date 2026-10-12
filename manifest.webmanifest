@@ -1,1 +1,16 @@
-{"name":"WeatherWise","short_name":"WeatherWise","start_url":"./","display":"standalone","background_color":"#06131f","theme_color":"#0b2236"}
+{
+  "name": "WeatherWise",
+  "short_name": "WeatherWise",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06131f",
+  "theme_color": "#0b2236",
+  "icons": [
+    {
+      "src": "weatherwise-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
